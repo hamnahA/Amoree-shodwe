@@ -83,7 +83,7 @@ export function Header() {
               onClick={() => setMenuOpen(false)}
               className="mt-4 rounded-full border border-foreground px-6 py-2.5 text-sm text-center transition-all hover:bg-foreground hover:text-background"
             >
-              Contact Us
+              Contact Us now
             </Link>
           </nav>
         </div>
@@ -92,4 +92,4 @@ export function Header() {
   )
 }
 //new text for testing
-
+//testinggg
