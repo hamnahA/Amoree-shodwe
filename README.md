@@ -2,6 +2,17 @@
 
 **Live Site:** https://amore-shodwe.vercel.app/
 
+## Screenshots
+
+**Home Page**  
+![projects Page](public/images/projects.png)
+
+
+![blog Page](public/images/blog.png)
+
+![Blog Page](public/images/blo2.png)
+![Blog Page](public/images/moreabout.png)
+
 
 ## Overview
 
@@ -101,3 +112,4 @@ The project is deployed on Vercel. To deploy your own version:
 ## Author
 
 Hamnah Ansari
+
