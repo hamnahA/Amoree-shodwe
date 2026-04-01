@@ -10,7 +10,7 @@
 
 ![blog Page](public/images/blog.png)
 
-![Blog Page](public/images/blo2.png)
+![Blog Page](public/images/blog2.png)
 ![Blog Page](public/images/moreabout.png)
 
 
